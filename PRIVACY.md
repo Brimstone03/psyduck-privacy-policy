@@ -1,4 +1,4 @@
-**Pcyduck Privacy Policy**
+# Pcyduck Privacy Policy
 Effective Date: 16 november 2023
 
 Thank you for using [Your Bot Name]! This Privacy Policy outlines how we collect, use, and protect information obtained from users of our Discord bot.
