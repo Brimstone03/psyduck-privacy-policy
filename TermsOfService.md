@@ -18,10 +18,10 @@ While using Psyduck, you agree not to:
 4 Attempt to gain unauthorized access to any part of the bot or its related systems.
 
 # Modifications to the Bot
-We reserve the right to modify or discontinue [Your Bot Name] at any time without notice. We are not liable to you or any third party for any modification, suspension, or discontinuation of the bot.
+We reserve the right to modify or discontinue Psyduck at any time without notice. We are not liable to you or any third party for any modification, suspension, or discontinuation of the bot.
 
 # Limitation of Liability
-[Your Bot Name] is provided "as is" without any warranties, expressed or implied. We are not responsible for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use the bot.
+Psyduck is provided "as is" without any warranties, expressed or implied. We are not responsible for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use the bot.
 
 # Changes to the Terms
 We reserve the right to update or change these Terms of Service at any time. Users will be notified of significant changes through the bot's communication channels. Continued use of the bot after such modifications constitutes your acknowledgment and acceptance of the modified terms.
